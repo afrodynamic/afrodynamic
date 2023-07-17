@@ -42,6 +42,9 @@ Django
 
 WordPress
 <img src="./icons/wordpress.svg" width="64" height="64">
+|
+Sanity
+<img src="./icons/sanity.svg" width="64" height="64">
 
 ### CSS
 
