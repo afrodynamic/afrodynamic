@@ -164,6 +164,9 @@ Python
 C
 <img src="./icons/c.svg" width="64" height="64">
 |
+C++
+<img src="./icons/cpp.svg" width="64" height="64">
+|
 Arduino
 <img src="./icons/arduino.svg" width="64" height="64">
 |
@@ -172,10 +175,9 @@ C#
 |
 Java
 <img src="./icons/java.svg" width="64" height="64">
-|
+
 Lua
 <img src="./icons/lua.svg" width="64" height="64">
-
 Processing
 <img src="./icons/processing.svg" width="64" height="64">
 |
